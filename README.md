@@ -64,12 +64,11 @@ Areas of Expertise/Interest: Analytics & Algorithms, Data Science & Machine Lear
   <img src="https://img.shields.io/badge/Machine%20Learning-74CB34?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=flat&logoColor=white">
 </p>
-<h4>Programming Languages</h4>
+<h4> Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/R-14354C?style=flat&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </p>
 <h4>Python Libraries</h4>
 <p>
@@ -80,7 +79,6 @@ Areas of Expertise/Interest: Analytics & Algorithms, Data Science & Machine Lear
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-D96826?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/Seaborn-74CB34?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Pillow-14354C?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/NLTK-3E50C1?style=flat&logoColor=white">
 </p>
 <h4>Web Development</h4>
@@ -93,10 +91,8 @@ Areas of Expertise/Interest: Analytics & Algorithms, Data Science & Machine Lear
 <details>
   <summary>More Skills</summary>
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white">
 </details>
 
 <h3>
