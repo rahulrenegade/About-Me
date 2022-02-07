@@ -83,5 +83,4 @@ Areas of Expertise/Interest: Analytics & Algorithms, Data Science & Machine Lear
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrenegade&theme=vision-friendly-dark">
-  ![Rahuls's github stats](https://github-readme-stats.vercel.app/api?username=rahulrenegade)
 </p>
