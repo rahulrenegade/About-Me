@@ -39,20 +39,10 @@ Areas of Expertise/Interest: Analytics & Algorithms, Data Science & Machine Lear
   Projects 👨‍💻
 </h3>
 <ul>
-  <li><a href="https://github.com/Project-SafeShop">Project SafeShop</a></li>
-  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
-  <li><a href="https://github.com/Nkap23/TensorFlow_with_Colab_tutorial">Dog Breed Classifier using TensorFlow 2</a></li>
-  <li><a href="https://github.com/ParthPrajapati43/OS-Algorithms">OS Scheduling Algorithm Visualization</a></li>
-</ul>
-
-<h3>
-  Latest Blogs 📝
-</h3>
-<ul>
-  <li><a href="https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc">TensorFlow 2 Object Detection API With Google Colab</a></li>
-  <li><a href="https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning">Image & Video Background Removal using Deep Learning</a></li>
-  <li><a href="https://medium.com/analytics-vidhya/training-your-first-machine-learning-model-with-sklearn-e03d5de3bfba">Training your First Machine Learning Model with Python’s sklearn</a></li>
-  <li><a href="https://nisargkapkar.hashnode.dev/nlp-basic-pattern-matching-using-pythons-spacy-library">NLP: Basic Pattern Matching using Python's spaCy library</a></li>
+  <li><a href="https://github.com/Project-SafeShop">Car Resale Price Predictor Using Machine Learning</a></li>
+  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Home Automation System (Face and Voice Assistant Based IoT Project)</a></li>
+  <li><a href="https://github.com/Nkap23/TensorFlow_with_Colab_tutorial">Wells Fargo Fraud Detection Using Machine Learning</a></li>
+  <li><a href="https://github.com/ParthPrajapati43/OS-Algorithms">Sarcasm Classification and Analysis using Keras</a></li>
 </ul>
 
 <h3>
