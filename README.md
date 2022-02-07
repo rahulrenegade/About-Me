@@ -68,12 +68,6 @@ Areas of Expertise/Interest: Analytics & Algorithms, Data Science & Machine Lear
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
-<details>
-  <summary>More Skills</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white">
-</details>
 
 <h3>
   GitHub Stats 📊
