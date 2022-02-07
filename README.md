@@ -30,7 +30,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Rahul Mullaguru, Computer Science undergraduate student (2017-2021 batch) at Presidency University, Bangalore, India. I am Data Science and Machine Learning Enthusiast. I also design and develope websites in my free time.
+I'm Rahul Mullaguru, I did my bachelor’s in Computer Science from Presidency University, Bangalore. I'm currently pursuing my master's in Business Analytics at the University of Texas at Dallas. My main course work is mostly analytics and science and how we apply them in real world.
 <br/>
 <br/>
 Areas of Expertise/Interest: Data Structures & Algorithms, Data Science & Machine Learning.
