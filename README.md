@@ -7,22 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nisarg-kapkar/">
+  <a href="https://www.linkedin.com/in/rahul-mullaguru/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://nisargkapkar.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
-  </a>
-  <a href="https://nisargkapkar.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/nisargkapkar">
+  <a href="https://www.kaggle.com/rahulmullakuru">
     <img src="https://img.shields.io/badge/Kaggle-2596BE?style=flat&logo=kaggle&logoColor=white">
   </a>
-  <a href="https://www.codechef.com/users/n_kap">
-    <img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white">
-  </a>
-  <a href="mailto:nisargkapkar00@gmail.com">
+  <a href="mailto:mullakurub1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
